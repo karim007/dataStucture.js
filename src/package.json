@@ -1,0 +1,26 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "Some data structures that could help to optimize your development",
+  "main": "node.js",
+  "scripts": {
+    "test": "mocha",
+    "debug": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim007/dataStructure.js.git"
+  },
+  "author": "K@r!/\\/\\",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim007/dataStructure.js/issues"
+  },
+  "homepage": "https://github.com/karim007/dataStructure.js#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
