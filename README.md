@@ -3,7 +3,7 @@ In computer science, a data structure is a data organization, management, and st
 
 ### Installation
 ```javascript
-npm install datastructure.js
+npm install data-structures-algorithms
 ```
 
 ### Hash table
@@ -16,7 +16,7 @@ In many situations, hash tables turn out to be on average more efficient than se
 
 #### Example
 ```javascript
-import {hashtable} from 'datastructure.js'
+import {hashtable} from 'data-structures-algorithms'
 let sizeArray=100;
 let h= new hastable(sizeArray);
 
@@ -40,7 +40,7 @@ In computer science, a Linked list is a linear collection of data elements, whos
 
 #### Example should be tested
 ```javascript
-import {linkedList} from 'datastructure.js'
+import {linkedList} from 'data-structures-algorithms'
 let  lst= new linkedList(100);
 
 //add at the end
@@ -96,7 +96,7 @@ A heap is a specialized tree-based data structure which is essentially an almost
 
 #### Example
 ```javascript
-import {hashtable} from 'datastructure.js'
+import {hashtable} from 'data-structures-algorithms'
 let sizeArray=100;
 let h= new hastable(sizeArray);
 
@@ -115,7 +115,7 @@ h.delete(100
 an AVL tree (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree. It was the first such data structure to be invented. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take O(log n) time in both the average and worst cases, where {\displaystyle n} n is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations[https://en.wikipedia.org/wiki/AVL_tree].
 #### Example To verify and continue
 ```javascript
-import {avl} from 'datastructure.js'
+import {avl} from 'data-structures-algorithms'
 let avlds= new avl(100);
       
 //add
@@ -149,7 +149,7 @@ Binary search trees (BST), sometimes called ordered or sorted binary trees, are 
 
 
 ```javascript
-import {bts} from 'datastructure.js'
+import {bts} from 'data-structures-algorithms'
 let binaryTree= new bts(100);
 
 //add

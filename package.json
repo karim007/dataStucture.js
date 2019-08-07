@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "Some data structure that will improve your development",
+  "main": "src/dataStructures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim007/dataStucture.js.git"
+  },
+  "keywords": [
+    "js",
+    "datastructure",
+    "algorithm"
+  ],
+  "author": "k@r!M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim007/dataStucture.js/issues"
+  },
+  "homepage": "https://github.com/karim007/dataStucture.js#readme"
+}
