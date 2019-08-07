@@ -1,6 +1,6 @@
 {
   "name": "data-structures-algorithms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some data structure that will improve your development",
   "main": "src/dataStructures.js",
   "scripts": {
